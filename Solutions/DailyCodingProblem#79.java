@@ -4,7 +4,7 @@
 //
 
 
-public class DailyCodingProblem1 {
+public class DailyCodingProblem {
 
 
     private static boolean checkPossibility(int[] a) {
